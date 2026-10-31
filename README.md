@@ -2,15 +2,11 @@
 
 <div align=center>
 <!-- Languages -->
-![Python](https://shields.io)
-
-<!-- Databases -->
-![PostgreSQL](https://shields.io)
-
-<!-- Frameworks & Tools -->
-![Django](https://shields.io)
-![FastAPI](https://shields.io)
-![Docker](https://shields.io)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gaurav-null/BuildFrame?style=for-the-badge&labelColor=101418&color=9ccbfb)
 ![GitHub Repo stars](https://img.shields.io/github/stars/gaurav-null/BuildFrame?style=for-the-badge&labelColor=101418&color=b9c8da)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gaurav-null/BuildFrame?style=for-the-badge&labelColor=101418&color=d3bfe6)
